@@ -1,0 +1,7 @@
+.env
+padel_seen.json
+padel_seen.json.tmp
+*.log
+.padel.lock
+__pycache__/
+.DS_Store
